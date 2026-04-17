@@ -1,4 +1,4 @@
-# 📋 Kanban Board – Next.js Intern Assignment
+# 📋 Kanban Board 
 
 A Trello-inspired Kanban Board built with **Next.js 15 (App Router)**, **TypeScript**, and **Tailwind CSS**, featuring a distinctive deep-space aurora UI.
 
